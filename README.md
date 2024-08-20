@@ -13,7 +13,7 @@
 
 You can use `rustsite` directly from crates.io. To use it as a binary, install it using Cargo:
 ```bash
-cargo install rustsite
+cargo install rustsitemd
 ```
 ## Usage
 
