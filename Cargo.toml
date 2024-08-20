@@ -1,0 +1,15 @@
+[package]
+name = "rustsitemd"
+version = "0.1.0"
+authors = ["Voltaged rusindanilo@gmail.com"]
+edition = "2021"
+description = "A customizable static site generator in Rust."
+license = "MIT"
+repository = "https://github.com/voltageddebunked/rustsite"
+homepage = "https://rustsite.vercel.app"
+documentation = "https://docs.rs/rustsite"
+readme = "README.md"
+
+[dependencies]
+
+[dev-dependencies]
